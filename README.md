@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devx32&label=Profile%20views&color=0e75b6&style=flat" alt="devx32" /> </p>
 
-- 🔭 I’m currently working on **FiveM QBCore Scripts**
+-  I’m currently working on **FiveM QBCore Scripts**
 
-- 🌱 I’m currently learning **Svelte**
+-  I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevX32](https://github.com/DevX32)
+-  All of my projects are available at [https://github.com/DevX32](https://github.com/DevX32)
 
-- 📫 How to reach me **devx322@gmail.com**
+-  How to reach me **devx322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
