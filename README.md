@@ -14,5 +14,3 @@
 <p align="left">
 <a href="https://discord.gg/UfKqnCqPuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UfKqnCqPuk" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devx32&show_icons=true&locale=en&layout=compact" alt="devx32" /></p>
