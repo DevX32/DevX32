@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F5&width=435&lines=MY+NAME+IS+DEVX;SELF+TAUGHT+DEVELOPER+FROM+NEPAL)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devx32&label=Profile%20views&color=0e75b6&style=flat" alt="devx32" /> </p>
 
--  I’m currently working on **Custom Proj**
+-  I’m currently working on **Custom Project**
 
 -  I’m currently learning **Svelte**
 
