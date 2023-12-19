@@ -4,7 +4,7 @@
 
 -  I’m currently working on **Custom Project**
 
--  I’m currently learning **Svelte**
+-  I’m currently learning **TypeScript**
 
 -  All of my projects are available at [https://github.com/DevX32](https://github.com/DevX32)
 
