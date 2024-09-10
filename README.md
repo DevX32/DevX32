@@ -1,48 +1,71 @@
-<h5 align="center">Greetings! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" /> I'm DevX, Self Taught Developer From Nepal. Let's Dive Into The Coding World Together! 🚀</h5>
+# Hello, I'm DevX 👋
 
-###
+## Self-taught Developer from Nepal
+
+---
+
+### 🔭 I’m currently working on
+
+- Enhancing my skills with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org/)
+- Building projects with [Svelte](https://svelte.dev/) and [Next.js](https://nextjs.org/)
+
+---
+
+### 🛠️ Languages & Technologies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevX32&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
 
-###
+---
+
+### 📈 My GitHub Stats
+
 <div align="center">
-<h5> I code with <h5>
-  <div>
-  <p></p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=79c0ff" alt="DevX's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=dracula&hide_border=true" alt="DevX's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX32&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&card_width=400" alt="DevX's Top Languages" />
 </div>
 
-###
+---
+
+### 🌐 My Social Links
 
 <div align="center">
-  <a href="https://www.youtube.com/@DevX32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@DevX32" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://devx32.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=212121&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  <a href="https://devx32.vercel.app" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=file&label=&color=212121&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
-  <a href="https://discord.gg/2aZDVZZbHE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.gg/2aZDVZZbHE" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
 </div>
 
-###
