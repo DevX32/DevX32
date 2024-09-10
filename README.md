@@ -1,6 +1,4 @@
-# Hello, I'm DevX 👋
-
-## Self-taught Developer from Nepal
+### Greetings! I'm DevX, Self Taught Developer From Nepal.
 
 ---
 
