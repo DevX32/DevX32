@@ -5,7 +5,7 @@
 ### 🔭 I’m currently working on
 
 - Enhancing my skills with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org/)
-- Building projects with [Svelte](https://svelte.dev/) and [Next.js](https://nextjs.org/)
+- Building projects with [React](https://react.dev/) and [Next.js](https://nextjs.org/)
 
 ---
 
