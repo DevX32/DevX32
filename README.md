@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevX32&theme=github-dark&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevX32&theme=github-dark&area=true&color=8685ef&line=8685ef&point=ffff" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
