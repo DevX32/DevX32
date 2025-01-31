@@ -65,7 +65,7 @@
       <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td>
-     <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=dark" alt="Streak Stats"/>
+     <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=react" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
