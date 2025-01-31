@@ -52,27 +52,30 @@
 <h3 align="left" style="text-decoration: underline;">My GitHub Stats:</h3>
 <div>
 <table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=react" alt="Profile Summary">
-</td>
-</tr>
+  <tr>
+    <td>
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
+    </td>
+  </tr>
 </table>
 
 <table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=react" alt="Streak Stats"/>
-</td>
+  <tr>
+    <td>
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+     <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=react" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
+
 </tr>
 </table>
 <table>
   <tr>
     <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevX32&theme=github-dark&area=true&color=8685ef&line=8685ef&point=ffff" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevX32&theme=github-dark&area=true&color=fff&line=8685ef&point=ffff" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
