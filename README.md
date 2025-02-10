@@ -56,22 +56,12 @@
     <td>
       <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
     </td>
-  </tr>
-</table>
-
-<table width="100%" align="center">
-  <tr>
-    <td>
-      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-     <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX32&theme=react" alt="Streak Stats"/>
+        <td>
+      <img width="450em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
 
-</tr>
-</table>
 <table>
   <tr>
     <td>
