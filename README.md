@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I’m DevX - A Self-Taught Developer from Nepal</h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/2aZDVZZbHE" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react" style="max-width:100%;"></a>                   
   <img src="https://komarev.com/ghpvc/?username=DevX32&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profile"/>
   <img src="https://img.shields.io/github/followers/DevX32?style=react" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/DevX32?style=react" alt="GitHub Stars"/>
@@ -24,32 +23,29 @@
 </a>
 <br><br>
 
-<span><b> I’m currently working on:</b></span>
+<span><b>🚀 I’m currently working on:</b></span>
   - Enhancing my skills with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org/)
   - Building projects with [React](https://react.dev/) and [Next.js](https://nextjs.org/)
 <br>
 
-<h3 align="left" style="text-decoration: underline;">What I Use for Work? <i>(languages & software for work)</i></h3>
+<h3 align="left" style="text-decoration: underline;">🖥️ Development Stack</i></h3>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-</div>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left" style="text-decoration: underline;">My GitHub Stats:</h3>
+<h3 align="left" style="text-decoration: underline;">📊 My GitHub Stats:</h3>
 <div>
 <table width="100%" align="center">
   <tr>
@@ -57,7 +53,7 @@
       <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
     </td>
         <td>
-      <img width="450em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
+      <img width="420em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
