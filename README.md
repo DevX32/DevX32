@@ -24,8 +24,8 @@
 <br><br>
 
 <span><b>🚀 I’m currently working on:</b></span>
-  - Enhancing my skills with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org/)
-  - Building projects with [React](https://react.dev/) and [Next.js](https://nextjs.org/)
+  - Enhancing my skills with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [Svelte](https://svelte.dev/) and [React](https://reactjs.org/)
+  - Building projects with [React](https://react.dev/) and [Svelte](https://svelte.dev/)
 <br>
 
 <h3 align="left" style="text-decoration: underline;">🖥️ Development Stack</i></h3>
