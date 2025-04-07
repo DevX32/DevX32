@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/@DevX32" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
 </a>
-<a href="https://devx32.vercel.app" target="_blank" style="margin-right: 10px;">
+<a href="https://devx.devxnetworkz.com" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=file&label=&color=212121&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
 </a>
 <a href="https://discord.gg/2aZDVZZbHE" target="_blank">
