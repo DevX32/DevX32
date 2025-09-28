@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 
-<h1 align="center">Hi, I’m DevX - A Self-Taught Developer from Nepal</h1>
+<h1 align="center">Hi, I’m DevX - A Self-Taught Developer</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DevX32&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profile"/>
