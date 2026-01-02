@@ -52,8 +52,6 @@
     <td>
       <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
     </td>
-        <td>
-      <img width="420em" src="https://github-readme-stats.vercel.app/api?username=DevX32&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
