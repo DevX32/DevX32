@@ -29,7 +29,6 @@
 <br>
 
 <h3 align="left" style="text-decoration: underline;">🖥️ Development Stack</i></h3>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -44,7 +43,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 <h3 align="left" style="text-decoration: underline;">📊 My GitHub Stats:</h3>
 <div>
 <table width="100%" align="center">
@@ -55,7 +53,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td>
