@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/2aZDVZZbHE" target="_blank">
+<a href="https://discord.gg/KDMvNpcMJD" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Community&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
 </a>
 
