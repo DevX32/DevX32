@@ -46,10 +46,6 @@
     </td>
   </tr>
 </table>
-
-<table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevX32&theme=github-dark&area=true&color=fff&line=8685ef&point=ffff" alt="Contribution Graph" />
-</table>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
