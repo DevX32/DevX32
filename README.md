@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I’m DevX - A Self-Taught Developer</h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DevX32&label=Profile%20Views&color=8685ef&style=flat&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/DevX32?style=flat&color=8685ef" />
   <img src="https://img.shields.io/github/stars/DevX32?style=flat&color=8685ef" />
 </p>
@@ -33,7 +32,7 @@
 <h3 align="left">Development Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,nodejs,tailwind,vite,lua,mysql,postgres,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,rust,nodejs,tailwind,vite,lua,mysql,postgres,git,html,css" />
 </p>
 
 <h3 align="left">GitHub Statistics</h3>
@@ -42,7 +41,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
+      <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX32&theme=dark&color=8685ef" alt="Profile Summary">
     </td>
   </tr>
 </table>
