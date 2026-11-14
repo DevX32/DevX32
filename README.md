@@ -8,8 +8,6 @@
 </p>
 
 <a href="https://discord.com/users/845120585054027827">
-  <img src="https://lanyard.cnrad.dev/api/845120585054027827" align="right" /></a>
-
 <a href="https://devx32.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
